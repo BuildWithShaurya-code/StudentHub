@@ -1,0 +1,33 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment and secrets
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# Node / Frontend
+node_modules/
+dist/
+build/
+.DS_Store
+*.log
+
+# All private environment variants; retain the documented template
+.env.*
+!.env.example
+# Local verification and generated output
+*.class
+java-oop-demo/bin/
+audit/artifacts/
+*.zip
+*.sql.gz
+*.dump

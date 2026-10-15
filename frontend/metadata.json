@@ -1,0 +1,6 @@
+{
+  "name": "StudentHub — Student Management System",
+  "description": "Academic student management portal for enrollment, student directories, grade results, and profile administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
